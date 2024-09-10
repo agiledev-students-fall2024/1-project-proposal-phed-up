@@ -31,3 +31,10 @@ Features:
 ### Scope
 
 The proposal can be divided into essential features such as order tracking, and advanced features such as group ordering or personalized recommendations. These features are feasible with the help of existing APIs and technologies which are common in app development, making them realistic for a semester-long project. The different features can also be developed in parallel, which helps to speed up the process. Even with existing APIs this project would not be too easy since it contains many deliverables which can be continuously optimized throughout the semester.
+
+### Contributors
+* [Edison Chen](https://github.com/ebc5802)
+* [Harrison Du](https://github.com/HarrisonDu)
+* [Daniel Sun](https://github.com/dsun03)
+* [Phillip Wong](https://github.com/ohiwop)
+* [Stella Zhang](https://github.com/qq3173732005)
